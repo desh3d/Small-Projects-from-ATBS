@@ -1,0 +1,1 @@
+@py.exe D:\Dhairyashil\Software\Python\MyPyLibirary\calcy.py %*
